@@ -1,0 +1,157 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+    <!--Tabs-->
+    <string name="Tab1">Visit</string>
+    <string name="Tab2">Food</string>
+    <string name="Tab3">Shops</string>
+    <string name="Tab4">Fun</string>
+
+    <!--Places to Visit-->
+    <string name="Monument1">Charminar</string>
+    <string name="Monument2">Golconda Fort</string>
+    <string name="Monument3">Birla Mandir</string>
+    <string name="Monument4">Salarjung Museum</string>
+    <string name="Monument5">Falaknuma Palace</string>
+
+    <!--Places to Visit description-->
+    <string name="Monument_1_description">One of the most popular historical monuments in Hyderabad, the Charminar was built by Mohammed Quli Qutub Shah in the year 1951. Made of granite and lime mortar, the structure depicts the indo- Arabian architecture. It is this monument which has come to symbolize the city of Hyderabad.</string>
+    <string name="Monument_2_description">The fort that was completed in the 17th century was the stronghold of the legendary Qutub Shahi Empire. One of the best examples of the acoustic systems of the age, this Hyderabad monument still does not fail to surprise the tourists with its extraordinary architecture and style.</string>
+    <string name="Monument_3_description">Pristine white, taller than the tallest of the city and magnificently lit, such is the splendour of the Birla Mandir of Hyderabad.Being in south India the architecture and the structure of the temple is more or less along the lines of South Indian architectural styles. Made of the complete marble, the temple is dedicated to Lord Venkateshwara.</string>
+    <string name="Monument_4_description">A palace in its time and now a museum to the possessions of the same family, such as the story of the Salarjung museum of Hyderabad.The family that built the palace, the Salarjungs were a royal family of Hyderabad and have some of the grandest collections of the antique artefacts to boast of. Being one of the largest museums in the world, the spectacularity of this place cannot be undermined in any regard.</string>
+    <string name="Monument_5_description">Another gift of the Paigah family to the grand layout the city of Hyderabad, the Falaknuma Palace was built in 1893. This distinguished place was built in the shape of the scorpion with two stings spread out on either side that look quite like wings facing the north.</string>
+
+    <!--Places to Visit address-->
+    <string name="Monument_1_address">Char Kaman, Ghansi Bazaar, Hyderabad, Telangana</string>
+    <string name="Monument_2_address">Khair Complex, Ibrahim Bagh, Hyderabad, Telangana</string>
+    <string name="Monument_3_address">Hill Fort Rd, Ambedkar Colony, Khairatabad, Hyderabad</string>
+    <string name="Monument_4_address">Salar Jung Road, Near Minar Function Hall, Darulshifa, Hyderabad, Telangana</string>
+    <string name="Monument_5_address">Engine Bowli, Fatima Nagar, Falaknuma, Hyderabad</string>
+
+    <!--Places to Visit phone-->
+    <string name="Monument_1_ph">+914030696969</string>
+    <string name="Monument_2_ph">+914030696676</string>
+    <string name="Monument_3_ph">+914012356676</string>
+    <string name="Monument_4_ph">+914077777353</string>
+    <string name="Monument_5_ph">+914047467837</string>
+
+    <!--Places to visit cost for ticket-->
+    <string name="Monument_1_cost">Rs.5 for Indians; Rs.100 for foreign tourists.</string>
+    <string name="Monument_2_cost">Rs.5 for Indians; Rs.100 for foreign tourists.</string>
+    <string name="Monument_3_cost">Rs.55 for Indians; Rs.250 for foreign tourists.</string>
+    <string name="Monument_4_cost">Rs.10 for Indians; Rs.150 for foreign tourists.</string>
+    <string name="Monument_5_cost">Tour Option A: Rs.3,100/ Adult and Rs.2480/ Child.</string>
+
+    <!--Places to Visit timings-->
+    <string name="Monument_1_timings">Open : 10:00 AM - 7:00 PM</string>
+    <string name="Monument_2_timings">Open : 10:00 AM - 5:00 PM</string>
+    <string name="Monument_3_timings">Open : 10:00 AM - 11:00 PM</string>
+    <string name="Monument_4_timings">Open : 10:00 AM - 5:00 PM</string>
+    <string name="Monument_5_timings">Open : 10:00 AM - 10:00 PM</string>
+
+    <!--Restaurants-->
+    <string name="Restaurant_1_name">Celeste</string>
+    <string name="Restaurant_2_name">Jewel of Nizam – The Minar</string>
+    <string name="Restaurant_3_name">Lé Vantage Cafe Bar</string>
+    <string name="Restaurant_4_name">The Waterfront</string>
+
+    <!--Restaurants description-->
+    <string name="Restaurant_1_description">Within the resplendent surroundings that the Taj Hotel Falaknuma Palace provides, this restaurant offers an elegant setting in which to dine on classic Italian and Mediterranean cuisine. While the restaurant’s grandeur makes the first impression, the sumptuous modern European plates from a menu of gourmet pizza and pasta dishes, and fine antipasti, soon become the focus.</string>
+    <string name="Restaurant_2_description">One of Hyderabad’s most revered restaurants, Jewel of Nizam is located within its own tower, with an elevated position affording panoramic views of its forested surroundings and across Osman Sagar lake. Here, the restaurant’s opulent interiors provide a regal setting for a Mughlai and Afghani fine dining.</string>
+    <string name="Restaurant_3_description">Lé Vantage is definitely lit during the nights.The vibe of the indoor seating is very Mediterranean, and the top floor of the cafe-cum-bar has an amazing ambience. While on one side, there are windows giving you the view of the outdoors, on the inside, it has walls with neon lights and bar scenes going on. The music is usually pleasant at noon and perfect for conversations over wine</string>
+    <string name="Restaurant_4_description">Located on Necklace Road, The Waterfront is yet another classic that can make your evening beautiful. With live music situation going on some days, you can either take the indoor or outdoor seating. We love the outdoor as it has the view of Hussain Sagar, but mosquitoes can be a menace during the Monsoon. The restaurant has a Chinese menu, and they whip delicious Chicken Majestic and fried rice. So, if you are looking for a simple meal but want to score on views and ambience, this is your go-to. Plus, it’s budget too!</string>
+
+    <!--Restaurants address-->
+    <string name="Restaurant_1_address">The Golkonda Resort, Gandipet, Hyderabad</string>
+    <string name="Restaurant_2_address">The Golkonda Resort, Gandipet, Hyderabad</string>
+    <string name="Restaurant_3_address">Plot 197-A, Road 13, Jubilee Hills, Hyderabad</string>
+    <string name="Restaurant_4_address">6-3-1240/225/23, Necklace Road, Khairatabad, Hyderabad</string>
+
+    <!--Restaurants phone number-->
+    <string name="Restaurant_1_ph">+914030696969 </string>
+    <string name="Restaurant_2_ph">+914030697779</string>
+    <string name="Restaurant_3_ph">+919121191782 </string>
+    <string name="Restaurant_4_ph">+914023308899 </string>
+
+    <!--Restaurants cost for two-->
+    <string name="Restaurant_1_cost">₹ 3500</string>
+    <string name="Restaurant_2_cost">₹ 2500</string>
+    <string name="Restaurant_3_cost">₹ 1000</string>
+    <string name="Restaurant_4_cost">₹ 1200</string>
+
+    <!--Restaurants timings-->
+    <string name="Restaurant_1_timings">Open : 11:30 AM - 3:00 PM , 7:00 PM - 11:00 PM</string>
+    <string name="Restaurant_2_timings">Open : 12:30 PM - 3:00 PM , 7:00 PM - 11:00 PM</string>
+    <string name="Restaurant_3_timings">Open : 11:30 AM - 9:00 PM</string>
+    <string name="Restaurant_4_timings">Open : 12:30 PM - 9:00 PM</string>
+
+    <!--Shopping places-->
+    <string name="Shoppingmall1">Hyderabad Cental</string>
+    <string name="Shoppingmall2">Inorbit mall</string>
+    <string name="Shoppingmall3">City Center</string>
+    <string name="Shoppingmall4">Sujana mall</string>
+    <string name="Shoppingmall5">Next Galleria</string>
+
+    <!--Shopping places description-->
+    <string name="Shoppingmall_1_description">Hyderabad Central is a shopping mall in Hyderabad, India, located on the Punjagutta road.</string>
+    <string name="Shoppingmall_2_description">GVK One is a shopping mall located in Banjara Hills, Hyderabad, India. The 350,000 sq ft mall was opened to public on 1 May 2009</string>
+    <string name="Shoppingmall_3_description">City center mall includes Marks and Spencer, as well as a range of movies, music, books, coffee shops, a food court, supermarket and restaurants</string>
+    <string name="Shoppingmall_4_description">Upbeat shopping mall offering familiar global chains, plus a large international food court.</string>
+    <string name="Shoppingmall_5_description">Next Galleria Mall is connected with Punjagutta Metro Station on the second floor. The mall is big with almost all brands. The food court is on the top floor.</string>
+
+    <!--Shopping addresses-->
+    <string name="Shoppingmall_1_address">Hyderabad Central, Punjagutta NO.6-3-673, 674/1, G.S.CENTER POINT PUNJAGUTTA CROSS, ROAD, Hyderabad, Telangana 500082, India</string>
+    <string name="Shoppingmall_2_address">S No. 64, Inorbit Mall Rd, APIIC Software Layout, Mindspace, Madhapur, Hyderabad, Telangana 500081, India</string>
+    <string name="Shoppingmall_3_address">CITY CENTER, 8-2-592, Rd Number 1, Banjara Hills, Hyderabad, Telangana 500034, India</string>
+    <string name="Shoppingmall_4_address">K P H B Phase 9, Kukatpally, Hyderabad, Telangana 500085, India</string>
+    <string name="Shoppingmall_5_address">Nagarjuna Hills, Punjagutta, Hyderabad, Telangana 500082, India</string>
+
+    <!--Shoppingmall phone number-->
+    <string name="Shoppingmall_1_ph">+914036745389</string>
+    <string name="Shoppingmall_2_ph">+914035655555</string>
+    <string name="Shoppingmall_3_ph">+914098776637</string>
+    <string name="Shoppingmall_4_ph">+914075666353</string>
+    <string name="Shoppingmall_5_ph">+914044333324</string>
+
+    <!--Shoppingmall timings-->
+    <string name="Shoppingmall_1_timings">Open : 10:00 AM - 11:00 PM</string>
+    <string name="Shoppingmall_2_timings">Open : 10:00 AM - 11:00 PM</string>
+    <string name="Shoppingmall_3_timings">Open : 10:00 AM - 11:00 PM</string>
+    <string name="Shoppingmall_4_timings">Open : 10:00 AM - 11:00 PM</string>
+    <string name="Shoppingmall_5_timings">Open : 10:00 AM - 11:00 PM</string>
+
+    <!--Parks -->
+    <string name="Park1">NTR gardens</string>
+    <string name="Park2">Lumbini Park</string>
+    <string name="Park3">Ramoji Film City</string>
+    <string name="Park4">Ocean Park</string>
+    <string name="Park5">Nehru Zoological Park</string>
+
+    <!--Parks description -->
+    <string name="Park_1_description">NTR Gardens is a small public, urban park of 36 acres adjacent to Hussain Sagar lake in Hyderabad, India.</string>
+    <string name="Park_2_description">Lumbini Park is a small public, urban park of 3 hectares adjacent to Hussain Sagar in Hyderabad, India. Since it is located in the centre of the city and is in close proximity to other tourist attractions, such as Birla Mandir and Necklace Road, it attracts many visitors throughout the year.</string>
+    <string name="Park_3_description">The Ramoji Film City in India is located in Hyderabad. Spread over 1666 acres, it is the largest integrated film city in the world and as such has been certified by the Guinness World Records as the largest studio complex in the world. It was built by Telugu film producer Ramoji Rao in 1996</string>
+    <string name="Park_4_description">Sprawling waterpark &amp; recreational area with a variety of rides, slides &amp; pools.</string>
+    <string name="Park_5_description">Nehru Zoological Park is a zoo located near Mir Alam Tank in Hyderabad, Telangana, India. It is one of the most visited destinations in Hyderabad. Zoo hours vary by season, and the zoo is closed on Mondays.</string>
+
+    <!--Parks address -->
+    <string name="Park_1_address">NTR Marg, Central Secretariat, Khairtabad, Hyderabad, Telangana 500004, India</string>
+    <string name="Park_2_address">Opposite Secretariat New Gate, Hussain Sagar, Khairtabad, Hyderabad, Telangana 500004, India</string>
+    <string name="Park_3_address">Ramoji Film City Main Rd, Hyderabad, Telangana 501512, India</string>
+    <string name="Park_4_address">Hno 8-21, Survey No: 166, 167, 168 &amp; 169, Shankarpalli Rd, near CBIT College, Gandipet, Hyderabad, Telangana 500075, India</string>
+    <string name="Park_5_address">NH 44, Bahadurpura, Hyderabad, Telangana 500064, India</string>
+
+    <!--Parks Phone -->
+    <string name="Park_1_ph">+914033469669</string>
+    <string name="Park_2_ph">+914047435464</string>
+    <string name="Park_3_ph">+914067666635</string>
+    <string name="Park_4_ph">+914067536555</string>
+    <string name="Park_5_ph">+914067665444</string>
+
+    <!--Parks timings-->
+    <string name="Park_1_timings">Open : 10:00 AM - 7:00 PM</string>
+    <string name="Park_2_timings">Open : 10:00 AM - 5:00 PM</string>
+    <string name="Park_3_timings">Open : 10:00 AM - 11:00 PM</string>
+    <string name="Park_4_timings">Open : 10:00 AM - 5:00 PM</string>
+    <string name="Park_5_timings">Open : 10:00 AM - 10:00 PM</string>
+
+</resources>
